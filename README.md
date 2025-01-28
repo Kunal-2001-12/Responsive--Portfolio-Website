@@ -22,7 +22,7 @@ This is a **responsive portfolio website** designed to showcase skills, projects
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <repository-url>
+   git clone:- https://github.com/Kunal-2001-12/Responsive--Portfolio-Website.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
